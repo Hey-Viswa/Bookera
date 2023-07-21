@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/Dashboard"
+        android:icon="@drawable/dashboard"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/Favourite"
+        android:icon="@drawable/favourite"
+        android:title="Favourite" />
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/About"
+        android:icon="@drawable/sort"
+        android:title="About" />
+
+</group>
+</menu>
